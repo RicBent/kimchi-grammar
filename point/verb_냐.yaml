@@ -15,4 +15,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/둘째_날인데_벌써부터_싸움질이냐__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 냐:EF
 details: |-

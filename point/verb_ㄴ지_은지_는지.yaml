@@ -16,4 +16,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/제_친구는_여행을_좋아하는지_방학_때마다_여행을_가요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: ㄴ지:EC|은지:EC|는지:EC
 details: |-

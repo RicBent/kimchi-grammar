@@ -14,5 +14,6 @@ definitions:
         translated: The cat kept crying at night, so I couldn't sleep.
         audio_url: https://r2.kimchi-reader.app/grammar/고양이가_밤에_울어_대서_잠을_못_잤어요__2024-09-04.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 어:EC 대:VX
 details: |-

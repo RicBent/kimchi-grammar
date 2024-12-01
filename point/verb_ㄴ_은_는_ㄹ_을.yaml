@@ -19,6 +19,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/우리는_일요일_아침에_늦잠_자는_것을_좋아합니다__2024-04-13.mp3
 metadata:
   type: verb
+  detect: ᆫ:ETM|은:ETM|는:ETM|을:ETM # |ㄹ:ETM ?
 details: |-
   |Tense|Modifiers|
   |---|---|

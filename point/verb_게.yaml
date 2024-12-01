@@ -32,4 +32,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/사람들이_모두_보게_안내문_벽에_붙였다__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 게:EC
 details: |-

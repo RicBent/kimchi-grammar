@@ -15,4 +15,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/한국어_실력을_늘리고자_한국_드라마를_자주_보고_있어요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 고자:EC
 details: |-

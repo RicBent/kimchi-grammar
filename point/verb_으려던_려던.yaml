@@ -15,5 +15,6 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/저도_백화점에_가려던_참이었는데_같이_가요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 려던:ETM|으려던:ETM
 details: |-
   The popular full form of this grammar point is :grammar[verb_으려던_려던] :dict[참]{참이다}

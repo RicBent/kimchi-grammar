@@ -18,5 +18,6 @@ definitions:
         translated: The teacher told me not to be late for the exam tomorrow.
         audio_url: https://r2.kimchi-reader.app/grammar/선생님이_내일_시험을_보니까_시험_시간에_늦지_말라고_했어요__2024-04-13.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 지:EC 말:VX
 details: |-

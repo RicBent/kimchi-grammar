@@ -16,4 +16,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/그_남자는_결혼을_하고서_사람이_달라졌어__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 고서:EC
 details: |-

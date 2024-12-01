@@ -14,7 +14,8 @@ definitions:
         translated: I can't believe that.
         audio_url: https://r2.kimchi-reader.app/grammar/저는_그_사실을_믿을_수_없어요__2024-04-13.mp3
 metadata:
-  type: composite
+  type: verb # TODO: No idea if this should be changed to verb actually
+  detect: ᆯ:ETM 수:NNB 있:VA|을:ETM 수:NNB 있:VA|ᆯ:ETM 수:NNB 없:VA|을:ETM 수:NNB 없:VA # TODO: 수가 variant
 details: |-
   # Emphasis with 수가 {#emphasis}
 

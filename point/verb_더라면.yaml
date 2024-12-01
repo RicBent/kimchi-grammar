@@ -20,4 +20,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/돈을_아껴서_썼더라면_다른_사람에게_돈을_빌리지_않아도_됐을_텐데__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 더라면:EC
 details: |-

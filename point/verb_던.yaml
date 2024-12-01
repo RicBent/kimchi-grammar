@@ -20,4 +20,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/'김'이라는_성은_신라에_살고_있던_귀족들의_성씨였어요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 던:ETM
 details: |-

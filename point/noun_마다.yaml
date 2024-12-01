@@ -28,4 +28,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/불의_제국은_날마다_전쟁을_일으켜__2024-03-17.mp3
 metadata:
   type: noun
+  detect: 마다:JX
 details: |-

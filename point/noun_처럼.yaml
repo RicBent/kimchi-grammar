@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/카멜레온_혀는_번개처럼_빨라요__2024-03-18.mp3
 metadata:
   type: noun
+  detect: 처럼:JKB
 details: |-

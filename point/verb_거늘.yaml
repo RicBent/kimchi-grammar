@@ -19,6 +19,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/경고를_받았거늘_또_같은_실수를_하다니__2024-10-24.mp3
 metadata:
   type: verb
+  detect: 거늘:EC
 details: |-
   # Usage {#usage}
 

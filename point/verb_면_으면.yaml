@@ -37,4 +37,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/남편은_내가_잠들어_있으면_깨우지_않으려고_살금살금_걸어_다닌다__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 면:EC|으면:EC
 details: |-

@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/남자_친구를_처음_만났을_때_첫인상이_어땠어요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 었:EP
 details: |-

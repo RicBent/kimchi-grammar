@@ -14,7 +14,8 @@ definitions:
         translated: It's not easy to find an appropriate house to live in because of the lack of money.
         audio_url: https://r2.kimchi-reader.app/grammar/돈이_부족해서_살_만한_집을_구하기가_쉽지_않아요__2024-04-13.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 지:EC 않:VX
 details: |-
   # Emphasis {#emphasis}
 

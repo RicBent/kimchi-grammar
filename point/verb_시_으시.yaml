@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/저도_곧_따라갈_테니까_먼저_출발하시지요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 시:EP|으시:EP
 details: |-

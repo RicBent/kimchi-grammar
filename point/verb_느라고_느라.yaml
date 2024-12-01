@@ -20,4 +20,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/아침에_등교하느라_일어나기가_힘들어__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 느라:EC|느라고:EC
 details: |-

@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/오전_5시부터_지하철이_다녀요__2024-04-13.mp3
 metadata:
   type: noun
+  detect: 부터:JX
 details: |-

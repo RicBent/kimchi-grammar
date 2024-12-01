@@ -12,6 +12,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/설마_그_사람이랑_다시_사귀고_싶은_건_아니지__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 지:EC|지:EF
 details: |-
   # Shortened {#shortened}
 

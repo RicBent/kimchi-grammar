@@ -40,4 +40,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/진실이_밝혀지리라__2024-10-25.mp3
 metadata:
   type: verb
+  detect: 리라:EF|으리라:EF|리라:EC|으리라:EC
 details: |-

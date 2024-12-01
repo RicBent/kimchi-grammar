@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/내_실수였으니까_내가_바로잡아야_한다고__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 어야:EC
 details: |-

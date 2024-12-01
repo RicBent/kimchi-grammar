@@ -15,4 +15,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/우리_가족은_아파트에서_산다__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 다:EC|ᆫ다:EC|다:EF|ᆫ다:EF  # TODO: Not exhaustive
 details: |-

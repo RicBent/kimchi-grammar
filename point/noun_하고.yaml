@@ -29,4 +29,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/그_사람이_싫은_건_아니고_그냥_저하고_성격이_잘_안_맞는_거_같아요__2024-04-13.mp3
 metadata:
   type: noun
+  detect: 하고:JC # TODO: check for false negatives
 details: |-

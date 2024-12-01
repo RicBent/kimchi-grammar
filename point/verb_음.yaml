@@ -49,6 +49,8 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/모든_준비가_완료되었음__2024-10-24.mp3
 metadata:
   type: verb
+  detect: 음:ETN
+  detect_post: noun
 details: |-
   # Usage {#usage}
 

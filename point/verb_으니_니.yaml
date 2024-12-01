@@ -32,4 +32,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/오늘_수업은_끝났으니_돌아가셔도_좋습니다__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 니:EF|으니:EC  # TODO: Not exhaustive
 details: |-

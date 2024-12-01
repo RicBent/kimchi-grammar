@@ -15,4 +15,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/선생님이_너무_촌스러워요__2024-03-25.mp3
 metadata:
   type: noun
+  detect: 스럽:XSA-I
 details: |-

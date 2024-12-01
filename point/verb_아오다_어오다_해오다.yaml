@@ -40,6 +40,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/책을_몇_권_가져와_주세요__2024-04-21.mp3
 metadata:
   type: verb
+  detect: 어:EC 오:VX|어:EC+오:VX
 details: |-
   # Spacing {#spacing}
 

@@ -32,6 +32,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/차에서_연기가_나자_운전사는_차에서_뛰쳐나왔다__2024-10-24.mp3
 metadata:
   type: verb
+  detect: 자:EF
 details: |-
   # Usage {#usage}
 

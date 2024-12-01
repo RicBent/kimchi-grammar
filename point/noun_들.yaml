@@ -19,6 +19,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/미나의_친한_친구들을_집으로_초대했어요__2024-03-15.mp3
 metadata:
   type: noun
+  detect: 들:XSN
 details: |-
   # Usage {#usage}
 

@@ -24,6 +24,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/우리_집_창밖으로_서울_타워가_보여요__2024-03-17.mp3
 metadata:
   type: noun
+  detect: 로:JKB|으로:JKB
 details: |-
   # Usage {#usage}
 

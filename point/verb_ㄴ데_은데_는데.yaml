@@ -28,6 +28,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/제가_머리가_많이_아픈데__2024-04-13.mp3
 metadata:
   type: verb
+  detect: ᆫ데:EC|은데:EC|는데:EC|ᆫ데:EF|은데:EF|는데:EF
 details: |-
   # Expressing disagreement {#disagreement}
 

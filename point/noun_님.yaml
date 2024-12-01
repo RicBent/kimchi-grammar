@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/손님,_이게_신상품입니다__2024-04-13.mp3
 metadata:
   type: noun
+  detect: 님:XSN
 details: |-

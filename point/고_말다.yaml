@@ -18,7 +18,8 @@ definitions:
         translated: I was on a diet, but I ended up eating cake.
         audio_url: https://r2.kimchi-reader.app/grammar/다이어트_중인데_케이크를_먹고_말았어__2024-10-24.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 고:EC 말:VX
 details: |-
   # Usage {#usage}
 

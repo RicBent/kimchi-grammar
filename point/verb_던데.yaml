@@ -20,4 +20,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/그곳에는_맛있는_음식들이_많던데요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 던데:EC
 details: |-

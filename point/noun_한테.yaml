@@ -19,6 +19,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/뭐라고_야_꼬맹이_너_지금_나한테_한_소리야__2024-03-15.mp3
 metadata:
   type: noun
+  detect: 한테:JKB
 details: |-
   # Usage {#usage}
 

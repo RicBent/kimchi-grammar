@@ -15,4 +15,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/돈을_계획_없이_쓰다가는_필요할_때_돈이_부족할지도_몰라요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 다가:EC+는:JX
 details: |-

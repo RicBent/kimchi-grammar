@@ -15,4 +15,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/경고하지만_그것은_위험하다__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 지만:EC
 details: |-

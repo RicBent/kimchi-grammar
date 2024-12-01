@@ -19,6 +19,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/창문을_닫아라_바람이_너무_많이_들어와__2024-07-24.mp3
 metadata:
   type: verb
+  detect: 어라:EF
 details: |-
   # Negative forms {#negative-forms}
 

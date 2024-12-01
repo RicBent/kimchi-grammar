@@ -19,6 +19,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/회의_시간이_정해졌으므로_모두_제시간에_도착해야_합니다__2024-08-12.mp3
 metadata:
   type: verb
+  detect: 므로:EC|으므로:EC
 details: |-
   # Usage {#usage}
 

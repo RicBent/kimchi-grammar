@@ -14,5 +14,6 @@ definitions:
         translated: Last year, I wanted to travel to Korea.
         audio_url: https://r2.kimchi-reader.app/grammar/작년에_한국에_여행하고_싶었어요__2024-04-15.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 고:EC 싶:VX
 details: |-

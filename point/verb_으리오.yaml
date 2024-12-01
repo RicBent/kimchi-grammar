@@ -23,4 +23,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/그가_성공하겠으리오__2024-10-25.mp3
 metadata:
   type: verb
+  detect: 리오:EF|으리오:EF|리오:EC으리오:EC
 details: |-

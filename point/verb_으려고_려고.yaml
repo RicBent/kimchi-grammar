@@ -20,4 +20,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/누나가_유학을_가려고_학교를_알아보는_중이에요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 려고:EC|으려고:EC
 details: |-

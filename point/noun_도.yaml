@@ -16,6 +16,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/친구도_왔어요_2024-02-18.mp3
 metadata:
   type: noun
+  detect: 도:JX
 details: |-
   # Particle Omission {#ommision}
 

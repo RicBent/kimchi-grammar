@@ -33,6 +33,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/비가_그치거든_축구를_할까요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 거든:EC|거든요:EF # TODO: Don't swallow 요
 details: |-
   # Usage {#usage}
 

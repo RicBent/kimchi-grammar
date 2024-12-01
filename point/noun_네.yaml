@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/친구네_집에서_파티를_열었어요__2024-08-12.mp3
 metadata:
   type: noun
+  detect: 네:XSN
 details: |-

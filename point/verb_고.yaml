@@ -28,4 +28,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/우리_아침도_안_먹고_나왔는데_국수나_먹고_갈까__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 고:EC
 details: |-

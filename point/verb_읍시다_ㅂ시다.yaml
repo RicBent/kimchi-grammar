@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/길이_막혀요_택시를_타지_맙시다__2024-04-13.mp3
 metadata:
   type: verb
+  detect: ᆸ시다:EF|읍시다:EF
 details: |-

@@ -20,6 +20,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/회의가_조금_있으면_끝난다고_하니까_끝나자마자_빨리_갈게요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: ᆫ다고:EC|ᆫ다고:EF # TODO: Not exhaustive
 details: |-
   # Usage {#usage}
 

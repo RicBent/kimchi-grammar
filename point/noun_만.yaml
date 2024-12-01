@@ -15,4 +15,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/주말에는_하루_종일_집에서_잠만_자요__2024-04-13.mp3
 metadata:
   type: noun
+  detect: 만:JX
 details: |-

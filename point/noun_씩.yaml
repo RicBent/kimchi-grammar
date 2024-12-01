@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/조금씩_배우고_있어요__2024-07-30.mp3
 metadata:
   type: noun
+  detect: 씩:XSN
 details: |-

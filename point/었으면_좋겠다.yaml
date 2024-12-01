@@ -22,7 +22,8 @@ definitions:
         translated: I hope it snows on Christmas.
         audio_url: https://r2.kimchi-reader.app/grammar/크리스마스에_눈이_왔으면_좋겠어요__2024-05-15.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 았:EP+으면:EC 좋:VA+겠:EP
 details: |-
   # Usage {#usage}
 

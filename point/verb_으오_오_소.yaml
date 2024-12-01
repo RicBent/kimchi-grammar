@@ -107,6 +107,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/조심하시오__2024-10-25.mp3
 metadata:
   type: verb
+  detect: 소:EC|오:EF
 details: |-
   # What is 하오체? {#what-is-하오체?}
 

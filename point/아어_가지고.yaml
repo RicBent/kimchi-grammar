@@ -27,7 +27,8 @@ definitions:
         translated: I drank a lot of coffee during the day, so couldn't sleep at night.
         audio_url: https://r2.kimchi-reader.app/grammar/낮에_커피를_많이_마셔_가지고_밤에_잠을_못잤어요__2024-05-16.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 어:EC 가지:VX+고:EC
 details: |-
   # Shortened form {#shortened}
 

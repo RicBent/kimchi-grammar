@@ -18,7 +18,8 @@ definitions:
         translated: This food looks really spicy. Are you okay?
         audio_url: https://r2.kimchi-reader.app/grammar/이_음식은_많이_매워_보이는데_괜찮아요__2024-05-16.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 아:EC 보이:VV
 details: |-
   # Alternate form {#alternate-form}
 

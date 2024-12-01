@@ -15,7 +15,8 @@ definitions:
         translated: We negotiated for three days, but we couldn't make a deal.
         audio_url: https://r2.kimchi-reader.app/grammar/우리는_삼_일_동안_협상하였지만,_거래를_하지_못했습니다__2024-04-13.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 지:EC 못:MAG+하:VV
 details: |-
   # Alternate form {#alternate-form}
 

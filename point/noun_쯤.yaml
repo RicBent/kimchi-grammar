@@ -15,5 +15,6 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/저는_일_년에_두_번쯤_여행을_가요._2024-03-13.mp3
 metadata:
   type: noun
+  detect: 쯤:XSN
 details: |-
   Note: There is also :dict[정도] (noun) that can be used as it is similar to :grammar[noun_쯤]{approximation}.

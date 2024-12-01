@@ -19,6 +19,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/남자_친구가_주말에_극장에서_영화를_보자고_해요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 자고:EC
 details: |-
   # Usage {#usage}
 

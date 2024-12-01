@@ -18,5 +18,6 @@ definitions:
         translated: I can't even imagine having that much money.
         audio_url: https://r2.kimchi-reader.app/grammar/그렇게_많은_돈을_가지고_있는_것을_상상할_수도_없어요__2024-04-13.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: ᆯ:ETM 수:NNB+도:JX 있:VA|을:ETM 수:NNB+도:JX 있:VA|ᆯ:ETM 수:NNB+도:JX 없:VA|을:ETM 수:NNB+도:JX 없:VA
 details: |-

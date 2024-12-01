@@ -27,4 +27,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/어제_백화점에_가니까_세일을_하고_있었어요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 니까:EC|으니까:EC
 details: |-

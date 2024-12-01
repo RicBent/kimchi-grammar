@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/지갑을_찾았다니_다행이네요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 네요:EF|네요:EF # TODO: Don't swallow 요
 details: |-

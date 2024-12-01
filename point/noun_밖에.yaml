@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/그는_공부밖에_모른다__2024-04-13.mp3
 metadata:
   type: noun
+  detect: 밖에:JX
 details: |-
