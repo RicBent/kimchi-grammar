@@ -22,10 +22,10 @@ relation:
       - { id: "verb_읍시다_ㅂ시다", slug: "suggestion" }
       - { id: "verb_자", slug: "suggestion" }
   - concern:
-      - { id: "아어_가지고", slug: "time-order-of-two-actions" }
+      - { id: "아어_가지다", slug: "time-order-of-two-actions" }
       - { id: "verb_아서_어서_해서", slug: "sequence-of-events" }
   - concern:
-      - { id: "아어_가지고", slug: "reasoning" }
+      - { id: "아어_가지다", slug: "reasoning" }
       - { id: "verb_으니_니", slug: "reason-or-cause" }
       - { id: "verb_아서_어서_해서", slug: "reason-or-cause" }
       - { id: "때문에", slug: "reason-or-cause" }
@@ -36,3 +36,19 @@ relation:
   - concern:
       - { id: "verb_자", slug: "simultaneous-action" }
       - { id: "verb_자마자", slug: "as-soon-as" }
+  - concern:
+      - { id: "는_길이다", slug: "on-my-way" }
+      - { id: "는_길에", slug: "while-on-my-way" }
+      - { id: "을_길이_없다", slug: "no-way-of" }
+  - concern:
+      - { id: "verb_는답시고", slug: "attempting-but-failing" }
+      - { id: "noun_이랍시고", slug: "pretending-to-be" }
+  - concern:
+      - { id: "을_정도로", slug: "extent-of-an-action" }
+      - { id: "을_정도이다", slug: "to-the-extent-that" }
+  - concern:
+      - { id: "건_말건", slug: "whether-or-not" }
+      - { id: "거나_말거나", slug: "whether-or-not" }
+  - concern:
+      - { id: "verb_건", slug: "casual-choice" }
+      - { id: "verb_거나", slug: "choice" }
