@@ -27,7 +27,9 @@ definitions:
         translated: I have never been hospitalised when I was a child.
         audio_url: https://r2.kimchi-reader.app/grammar/어릴_때_병원에_입원한_적이_없어요__2024-08-12.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: ᆫ:ETM 적:NNB+이:JKS 있:VA|은:ETM 적:NNB+이:JKS 있:VA|는:ETM 적:NNB+이:JKS 있:VA|ᆫ:ETM 적:NNB+이:JKS 없:VA|은:ETM 적:NNB+이:JKS 없:VA|는:ETM 적:NNB+이:JKS 없:VA
+  post_detect: verb
 details: |-
   # Alternate form {#alternate-form}
 

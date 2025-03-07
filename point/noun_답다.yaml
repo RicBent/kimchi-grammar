@@ -16,4 +16,5 @@ definitions:
 metadata:
   type: noun
   detect: 답:XSA-I
+  detect_post: verb
 details: |-
