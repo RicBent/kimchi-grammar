@@ -35,4 +35,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/조용히_앉으려무나_수업이_곧_시작될_거야__2025-02-16.mp3
 metadata:
   type: verb
+  detect: 렴:EF|으렴:EF|려무나:EF|으려:EC+무:NNG+나:JC
 details: |-

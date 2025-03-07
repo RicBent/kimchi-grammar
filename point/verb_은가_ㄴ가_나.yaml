@@ -23,6 +23,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/이_소포를_어디로_보내실_건가요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 나:EF|ᆫ가:EF|은가:EF
 details: |-
   |Tense|Form|
   |---|---|

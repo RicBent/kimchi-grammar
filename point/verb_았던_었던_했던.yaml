@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/저는_어릴_때_했던_게임을_아직_좋아해요__2024-04-21.mp3
 metadata:
   type: verb
+  detect: 었:EP+던:ETM
 details: |-

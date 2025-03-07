@@ -29,7 +29,7 @@ definitions:
 metadata:
   type: verb
   detect: ᆫ:ETM 적:NNB+이:JKS 있:VA|은:ETM 적:NNB+이:JKS 있:VA|는:ETM 적:NNB+이:JKS 있:VA|ᆫ:ETM 적:NNB+이:JKS 없:VA|은:ETM 적:NNB+이:JKS 없:VA|는:ETM 적:NNB+이:JKS 없:VA
-  post_detect: verb
+  detect_post: verb
 details: |-
   # Alternate form {#alternate-form}
 

@@ -19,5 +19,6 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/제가_임산부라서_그러는데_이_자리에_앉아도_될까요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 라서:EC
 details: |-
   Effectively a :grammar[verb_아서_어서_해서]{reason-or-cause} equivalent. Can only be used with :grammar[noun_이다] and so indirectly is only used with nouns.

@@ -23,6 +23,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/그녀가_웃긴_이야기_한답시고_했는데_아무도_안_웃었다__2024-12-19.mp3
 metadata:
   type: verb
+  detect: ᆫ답시고:EC
 details: |-
   # Usage {#usage}
 

@@ -19,6 +19,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/저_배우가_연기를_정말_잘하는군요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 는구나:EF|는군:EC
 details: |-
   # Usage {#usage}
 

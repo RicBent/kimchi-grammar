@@ -19,5 +19,6 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/이게_정답이라니까,_더_이상_의심하지_마__2024-04-19.mp3
 metadata:
   type: verb
+  detect: 다니까:EC|ᆫ다니까:EC|라니까:EC|으라니까:EC
 details: |-
   This is an abbreviation of <f>다[고 하니까]는</f> and <f>(이)라[고 하니까]는</f>.

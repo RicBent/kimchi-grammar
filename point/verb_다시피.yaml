@@ -15,6 +15,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/들으시다시피_음악이_아주_좋아요__2024-08-12.mp3
 metadata:
   type: verb
+  detect: 다시피:EC
 details: |-
   # Usage {#usage}
 

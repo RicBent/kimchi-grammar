@@ -27,4 +27,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/친구들을_만나건_혼자_있건_오늘은_기분_좋게_지낼_거야__2025-02-16.mp3
 metadata:
   type: verb
+  detect: 건:EC
 details: |-

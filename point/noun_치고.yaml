@@ -27,4 +27,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/이_샐러드는_건강식치고는_꽤_달콤하네요__2024-12-20.mp3
 metadata:
   type: noun
+  detect: 치고:JX
 details: |-

@@ -15,4 +15,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/아이들이_매운_요리는_잘_먹지_않을걸요__2024-04-13.mp3
 metadata:
   type: verb
+  detect: ᆯ걸:EF|을걸:EF
 details: |-

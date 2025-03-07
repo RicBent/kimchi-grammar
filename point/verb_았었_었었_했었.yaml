@@ -19,4 +19,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/이_아빠가_군대_있을_때_취사병이었다고_얘기했었나__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 었었:EP
 details: |-

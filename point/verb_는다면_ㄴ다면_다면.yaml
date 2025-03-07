@@ -20,4 +20,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/지난_학기에_열심히_공부하지_않았다면_장학금을_받을_수_없었겠지__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 다면서:EC|ᆫ다면서:EC|는다면서:EC
 details: |-
