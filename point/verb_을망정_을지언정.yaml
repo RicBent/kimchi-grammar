@@ -23,4 +23,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/그는_지키지는_못할지언정_약속은_함부로_하지_않아요__2024-12-18.mp3
 metadata:
   type: verb
+  detect: ᆯ망정:EC|을망정:EC|ᆯ지언정:EC|을지언정:EC
 details: |-

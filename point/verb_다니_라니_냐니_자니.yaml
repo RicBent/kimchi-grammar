@@ -23,6 +23,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/그래_너희_남편은_이번_여름에_어디로_휴가를_가자니__2024-04-13.mp3
 metadata:
   type: verb
+  detect: 다니:EC|라니:EC|자니:EC|냐:EC+니:EC|다니:EF|라니:EF|자니:EF
 details: |-
   Shorthand for quote <f>[다/라/냐/자]고</f> + :dict[하다]{하니}. See :grammar[verb_으니_니]{informal-question}.
 
