@@ -14,5 +14,6 @@ definitions:
         translated: There's no way you won't like this food.
         audio_url: https://r2.kimchi-reader.app/grammar/이_음식을_안_좋아할_리가_없어요__2024-09-04.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: ᆯ:ETM 리:NNB+가:JKS 없:VA|을:ETM 리:NNB+가:JKS 없:VA
 details: |-

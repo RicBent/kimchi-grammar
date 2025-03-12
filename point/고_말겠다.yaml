@@ -18,5 +18,6 @@ definitions:
         translated: I will achieve my goal.
         audio_url: https://r2.kimchi-reader.app/grammar/목표를_이루고_말겠다__2024-10-24.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 고:EC 말:VX+겠:EP
 details: |-

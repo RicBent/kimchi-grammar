@@ -14,7 +14,8 @@ definitions:
         translated: After doing something for a long time, my arms hurt a bit.
         audio_url: https://r2.kimchi-reader.app/grammar/오랫동안_무언가를_하고_나니_팔이_조금_아프네요__2024-07-25.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 고:EC 나:VX+니:EC|고:EC 나:VX+니까:EC
 details: |-
   # Usage {#usage}
 

@@ -26,5 +26,6 @@ definitions:
         translated: Meeting that person is a waste of time.
         audio_url: https://r2.kimchi-reader.app/grammar/그_사람을_만나나_마나_시간_낭비예요__2024-12-19.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 나:EC 말:VV+나:EC|으나:EC 말:VV+나:EC
 details: |-

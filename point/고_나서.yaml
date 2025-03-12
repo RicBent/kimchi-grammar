@@ -14,7 +14,8 @@ definitions:
         translated: I watch TV after eating dinner.
         audio_url: https://r2.kimchi-reader.app/grammar/저는_저녁을_먹고_나서_텔레비전을_봐요__2024-07-25.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 고:EC 나:VX+어서:EC
 details: |-
   # Usage {#usage}
 

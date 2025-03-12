@@ -14,7 +14,8 @@ definitions:
         translated: I went to the hospital because of the cold.
         audio_url: https://r2.kimchi-reader.app/grammar/감기_때문에_병원에_갔어요__2024-05-27.mp3
 metadata:
-  type: composite
+  type: noun
+  detect: " 때문:NNB+에:JKB"
 details: |-
   # Usage with verbs {#usage-with-verbs}
 

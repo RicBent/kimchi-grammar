@@ -18,7 +18,9 @@ definitions:
         translated: It's been over five hours since you started playing computer games.
         audio_url: https://r2.kimchi-reader.app/grammar/컴퓨터게임을_한_지_5시간이_넘었어요__2024-05-15.mp3
 metadata:
-  type: composite
+  type: verb
+  detect:  ᆫ:ETM 지:NNB|은:ETM 지:NNB|는:ETM 지:NNB
+  detect_post: noun
 details: |-
   # Alternate form {#alternate-form}
 

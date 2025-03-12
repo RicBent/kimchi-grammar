@@ -26,5 +26,7 @@ definitions:
         translated: Anyone can participate regardless of experience.
         audio_url: https://r2.kimchi-reader.app/grammar/경험을_막론하고_누구나_참여할_수_있어요__2024-12-18.mp3
 metadata:
-  type: composite
+  type: noun
+  detect: ᆯ:JKO 막론:XR+하:XSV+고:EC|을:JKO 막론:XR+하:XSV+고:EC|를:JKO 막론:XR+하:XSV+고:EC
+  detect_post: noun
 details: |-

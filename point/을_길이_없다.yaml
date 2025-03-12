@@ -26,5 +26,6 @@ definitions:
         translated: There is no way of knowing when we will finish that work.
         audio_url: https://r2.kimchi-reader.app/grammar/우리가_언제_그_일을_끝낼지_알_길이_없어요__2024-12-20.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: ᆯ:ETM 길:NNG+이:JKS 없:VA|을:ETM 길:NNG+이:JKS 없:VA
 details: |-

@@ -14,7 +14,8 @@ definitions:
         translated: When I can't sleep at night, I often listen to music
         audio_url: https://r2.kimchi-reader.app/grammar/밤에_잠이_안_오면_음악을_듣곤_해요__2024-10-24.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 곤:EC 하:VX
 details: |-
   # Usage {#usage}
 

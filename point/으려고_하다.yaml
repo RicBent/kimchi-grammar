@@ -18,7 +18,8 @@ definitions:
         translated: There are many people who intend to start exercising in January.
         audio_url: https://r2.kimchi-reader.app/grammar/일월에_운동을_시작하려고_하는_사람들이_많아요__2025-02-15.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 려고:EC 하:VX|으려고:EC 하:VX
 details: |-
   # Usage {#usage}
 
