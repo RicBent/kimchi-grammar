@@ -27,4 +27,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/교수님의_이론은_타당합니다만_실제_적용_사례를_더_살펴볼_필요가_있을_것_같습니다__2025-02-15.mp3
 metadata:
   type: verb
+  detect: ᆸ니다:EF+만:JX|습니다:EF+만:JX|ᆸ니다:EC+만:JX|습니다:EC+만:JX
 details: ""

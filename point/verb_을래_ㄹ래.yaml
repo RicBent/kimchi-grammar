@@ -28,5 +28,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/오늘_점심을_같이_먹을래요__2024-04-13.mp3
 metadata:
   type: verb
-  detect: ᆯ래:EF|을래:EF|ᆯ래요:EF|을래요:EF # TODO: Do not swallow 요
+  detect: ᆯ래:EF|을래:EF
 details: |-

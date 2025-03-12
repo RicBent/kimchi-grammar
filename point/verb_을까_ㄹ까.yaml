@@ -49,5 +49,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/그래서_음_뭐랄까_아니야,_상관없어__2024-12-18.mp3
 metadata:
   type: verb
-  detect: ᆯ까:EF|을까:EF|ᆯ까요:EF|을까요:EF # TODO: Do not swallow 요
+  detect: ᆯ까:EC|을까:EC|ᆯ까:EF|을까:EF
 details: |-
