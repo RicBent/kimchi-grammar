@@ -27,4 +27,5 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/잠을_충분히_못_잤어서인지_피곤해요__2024-12-19.mp3
 metadata:
   type: verb
+  detect: 어서:EC+이:VCP+ᆫ지:EC
 details: |-

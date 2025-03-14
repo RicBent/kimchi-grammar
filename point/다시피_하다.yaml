@@ -18,7 +18,8 @@ definitions:
         translated: She practically lives on pork belly as her staple food.
         audio_url: https://r2.kimchi-reader.app/grammar/그_여자는_삼겹살을_주식으로_하다시피_해요__2024-10-24.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 다시피:EC 하:VX
 details: |-
   # Comparison {#compare}
 

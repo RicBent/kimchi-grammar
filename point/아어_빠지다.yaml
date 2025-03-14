@@ -58,5 +58,6 @@ definitions:
         translated: Becoming interested in hanbok design and getting absorbed in researching it, she gained a deeper understanding of traditional culture.
         audio_url: https://r2.kimchi-reader.app/grammar/한복_디자인에_관심을_갖고_자료를_찾아_빠져_전통문화를_더_깊이_이해하게_되었어요__2024-12-20.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 어:EC 빠지:VX|어:EF 빠지:VX|어:EC 빠지:VV|어:EF 빠지:VV
 details: |-

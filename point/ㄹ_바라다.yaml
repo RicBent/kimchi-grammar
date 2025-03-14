@@ -18,7 +18,9 @@ definitions:
         translated: I hope for everyone's happiness.
         audio_url: https://r2.kimchi-reader.app/grammar/모두의_행복을_바랍니다__2025-02-15.mp3
 metadata:
-  type: composite
+  type: noun
+  detect: ᆯ:JKO 바라:VV|을:JKO 바라:VV|를:JKO 바라:VV
+  detect_post: verb
 details: |-
   # Usage with verbs {#usage-with-verbs}
 

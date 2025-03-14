@@ -43,7 +43,8 @@ definitions:
         translated: This is my first and last chance.
         audio_url: https://r2.kimchi-reader.app/grammar/이것은_제_처음이자_마지막_기회예요__2024-10-24.mp3
 metadata:
-  type: noun
+  type: verb
+  detect: 자:EC
 details: |-
   # Usage {#usage}
 

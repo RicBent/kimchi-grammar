@@ -18,5 +18,6 @@ definitions:
         translated: I made my child clean his room.
         audio_url: https://r2.kimchi-reader.app/grammar/저는_아이가_방을_청소하게_했어요__2025-02-15.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: 게:EC 하:VX
 details: ""
