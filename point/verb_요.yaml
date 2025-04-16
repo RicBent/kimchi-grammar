@@ -11,7 +11,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/꽃향기를_맡고_있었어요__2024-04-13.mp3
 metadata:
   type: verb
-  detect: 요:JX|요:EF|에요:EF
+  detect: 요:JX|요:EF|에요:EF|예요:EF
 details: |-
   # Usage {#usage}
 

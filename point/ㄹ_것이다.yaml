@@ -36,5 +36,6 @@ definitions:
         translated: It will be noisy while they are doing construction.
         audio_url: https://r2.kimchi-reader.app/grammar/공사를_하는_동안_좀_시끄러울_거예요__2024-04-13.mp3
 metadata:
-  type: composite
+  type: verb
+  detect: ᆯ:ETM 것:NNB+이:VCP|을:ETM 것:NNB+이:VCP|ᆯ:ETM 거:NNB+이:VCP|을:ETM 거:NNB+이:VCP
 details: |-
